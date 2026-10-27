@@ -3,10 +3,6 @@ package org.sebsy.compta.infra;
 import org.hibernate.jpa.HibernatePersistenceConfiguration;
 import org.hibernate.tool.schema.Action;
 import org.sebsy.compta.domain.Fournisseur;
-import org.hibernate.jpa.HibernatePersistenceConfiguration;
-import org.hibernate.tool.schema.Action;
-import org.sebsy.compta.domain.Fournisseur;
-import org.sebsy.compta.essai.ArticleCourt;
 import org.hibernate.SessionFactory;
 
 public final class Jpa {
